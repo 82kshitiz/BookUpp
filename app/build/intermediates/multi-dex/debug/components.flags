@@ -1,0 +1,92 @@
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.1.aar/cbfc43db1f5f0d828446ac1b665e4b8d/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/cdb17cc4b38dc42e3c131d73c240ab06/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/997b89afc0f19cf33a26a5ab59970a78/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/7a810af676370af14c342b9615c890a7/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c7a750fc29605556c846890fb8865f96/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/c2255a480a63fe0445ba2a8bed308105/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/0007fc3861485b0491a48bc84a476065/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/f3e008f21e2bea5f182f7ea62e4554b8/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/6992cc4b14676011b220da011c0fd761/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/7a0497be6dae6f251d31a5662f48c5e5/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/73dc7c1b3fac2493d29c4476ae7868d1/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/f1e4df2a67e6bbbff78ec660c09bb70e/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/86ce686ae38958d32e52f4ae0b9be977/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/1cf97089a1f542fc21df56cf949a8fd9/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/988fdd67f8060aed484f010b08068178/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/cf0a1fff5318b55cca61eb3b3555be02/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/ec386d8170263d1c5bed57c62f84b711/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/69788467e561f35ad5454f6e8ca7758e/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/e2d4022bc318914cb826375dc4140129/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC0/eb86cd1d96acc30dcebf338abaf2c62ca28bf355/glide-4.0.0-RC0.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/zxing-android-embedded-3.0.3.aar/13177b08e92be404fbf4f3342c1d0a4a/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/zxing-android-legacy-2.0.1.aar/10cea97ec5489a7060fd3fbbbc830fef/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/zxing-android-integration-2.0.1.aar/d0321981e98b6be05f7ce211acd61175/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.2.aar/981e87c02e13735970df141e3599f52d/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/73e68ccad86723edd33db9e400ec6f6d/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ed1e51ef060b493a04b2921aa8905225/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/4e787286fbd0f352121e13a0b3d36467/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/28b7c5db301e8ffe0274cb89459f147a/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/6a5c62b7aa053b32d5be339557b40de7/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/cf6d550963fd6af16b1a0a67ba6b66c0/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/7e671dd32d3f2bbe8cd5658e2aa29af8/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0-RC0/c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7/gifdecoder-4.0.0-RC0.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar(**.class)
+-injars /Users/amitgyawali/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/89105e8a83ba890f177b66c2e7f4257a/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/75b8cb9ee16f7d333effdd870524491b/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0-RC0/46d23cdc19155c5f0d47ece99ca1c421346c1509/disklrucache-4.0.0-RC0.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0-RC0/d5dd0afc50069b7fa0fc12ac85f91efa8df4db67/annotations-4.0.0-RC0.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/26257b17de2ea1e5b4b073bed385d7f7/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/7a7b67642e0be439fb1acb4ca6bdd069/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/fe9505c7bc148798bd08be4cdb9eecc3/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/4a368bce79dfe526e4889661535c0a4a/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/8d0b8839a2470904614c179c5541e677/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/823efe2d2e07c1adf087a31bbbe78022/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/034c40cfa7f6917c96f912115faeabfa/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/cfe4eb4c4aeabab729cc2eae332f970a/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar(**.class)
+-injars /Users/amitgyawali/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/561c06eb3ce391265f7da62893d669eb/jars/classes.jar(**.class)
+-injars /Users/amitgyawali/Desktop/book_upp/bookUpp-master/bookUpp-master/app/build/intermediates/classes/debug(**.class)
+-outjars /Users/amitgyawali/Desktop/book_upp/bookUpp-master/bookUpp-master/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/amitgyawali/Library/Android/sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/amitgyawali/Desktop/book_upp/bookUpp-master/bookUpp-master/app/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /Users/amitgyawali/Desktop/book_upp/bookUpp-master/bookUpp-master/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:52
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

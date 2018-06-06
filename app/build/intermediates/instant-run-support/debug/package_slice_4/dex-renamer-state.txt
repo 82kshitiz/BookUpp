@@ -1,0 +1,4 @@
+#Sun Apr 08 00:23:52 CDT 2018
+base.0=/Users/amitgyawali/Desktop/book_upp/bookUpp-master/bookUpp-master/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
